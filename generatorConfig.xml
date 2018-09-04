@@ -16,7 +16,7 @@
         </commentGenerator>
 		<!--数据库链接地址账号密码-->
         <jdbcConnection driverClass="com.mysql.jdbc.Driver"
-                        connectionURL="jdbc:mysql://192.168.40.219:3306/music"
+                        connectionURL="jdbc:mysql://192.168.00.000:3306/music"
                         userId="viptest"
                         password="viptest_2017"/>
 		<!--生成Model类存放位置-->
